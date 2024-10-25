@@ -48,29 +48,11 @@ To make the ChatGPT-on-CMD command available from any directory, add the script'
    - Click New and paste the path to ChatGPT-on-CMD.
    - Click OK to save and close.
 
-**Running the Chat Client Globally**
-
-After adding ChatGPT-on-CMD to your PATH, you can use the following command from any directory:
-
-```cmd
-chatgpt.bat
-```
-
-Alternatively, if you want to run the .py file directly, create an alias using doskey:
-
-Open Command Prompt and type:
-
-```cmd
-doskey chatgpt=python C:\path\to\ChatGPT-on-CMD\chatgpt.py $*
-```
-
-Now, you can run:
+3. **Now, you can run:**
 
 ```cmd
 chatgpt
 ```
-
-*Note: The `doskey` command is session-based. To make it persistent, add it to your startup scripts or .bat files.*
 
 ### License
 
