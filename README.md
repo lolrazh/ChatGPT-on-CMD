@@ -56,4 +56,4 @@ To make the ChatGPT-on-CMD command available from any directory, add the script'
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License]().
