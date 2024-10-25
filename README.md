@@ -48,7 +48,7 @@ To make the ChatGPT-on-CMD command available from any directory, add the script'
    - Click New and paste the path to `chatgpt.bat`.
    - Click OK to save and close.
 
-3. **Now, you can run:**
+3. **Run the Chat Client:**
 
    ```cmd
    chatgpt
