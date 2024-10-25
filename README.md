@@ -50,9 +50,9 @@ To make the ChatGPT-on-CMD command available from any directory, add the script'
 
 3. **Now, you can run:**
 
-```cmd
-chatgpt
-```
+   ```cmd
+   chatgpt
+   ```
 
 ### License
 
