@@ -1,6 +1,8 @@
 ## ChatGPT-on-CMD
 
-This repository allows you to interact with GPT-4o-mini directly from your command-line interface (CLI) on Windows. Follow this guide to set it up so you can run the chat client from anywhere.
+**This repository allows you to interact with GPT-4o-mini directly from your command-line interface (CLI) on Windows. Follow this guide to set it up so you can run the chat client from anywhere.**
+
+![](chatgpt.png)
 
 ### Prerequisites
 
